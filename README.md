@@ -1,2 +1,2 @@
-# pytorch_arm_builds
-Unofficial ARM Pytorch Builds
+# pytorch_rpi_builds
+Unofficial RPi Pytorch Builds
